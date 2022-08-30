@@ -2,4 +2,13 @@ This bot was created using this guide: https://discordjs.guide/
 
 Start bot by typing node index.js
 
+config.json is a file that contains your bot's token.
+{
+    "clientId": "botid",
+	"guildId": "serverid",
+    "token": "bot-token"
+}
 
+The node moduls used are: discord.js, fs, and path.
+
+*/
